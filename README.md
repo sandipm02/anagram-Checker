@@ -1,7 +1,6 @@
-# Aagram Checker
+# Anagram Checker
 
 Essentially this program will allow users to input two words and tell them if these two words are Anagrams!
-
 
 
 ## Anagrams:
