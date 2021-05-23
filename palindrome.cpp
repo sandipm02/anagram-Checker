@@ -9,14 +9,14 @@ string sortString(string user_input);
 int main()
 {
     string user_input_one, user_input_two;
-    cout << "Welcome to Sandip's Anagram Checker! \nPlease Input two words that you'd like the check! \nAlso note...This program is Case-Sensitive.";
+    cout << "Welcome to Sandip's Palindrome Checker! \nPlease Input two words that you'd like the check! \nAlso note...This program is Case-Sensitive.";
     cin >> user_input_one >> user_input_two;
     user_input_one = sortString(user_input_one);
     user_input_two = sortString(user_input_two);
     if (user_input_one == user_input_two)
-        cout << "These two words are Anagrams!";
+        cout << "These two words are Palindromes!";
     else
-        cout << "These are not Anagrams!";
+        cout << "These are not Palindromes!";
     return 0;
 }
 
