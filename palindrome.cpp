@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-//Function Declarations
+//Function Declaration
 string sortString(string user_input);
 
 //Program Body
