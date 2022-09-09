@@ -1,9 +1,8 @@
-# Anagram Checker
+# Palindrome Checker
 
 Essentially this program will allow users to input two words and tell them if these two words are Anagrams!
 
 
-## Anagrams:
+## Palindrome:
 
-A word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. 
-The program is Case-Sensitive, meaning that if you are to input the words Car and car. The program would return false. Keep this in mind! 
+a word, phrase, or sequence that reads the same backward as forward
